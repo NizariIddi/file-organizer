@@ -145,7 +145,7 @@ class FileOrganizerGUI:
         main_frame.pack(fill="both", expand=True, padx=10, pady=10)
 
         # Header
-        header = tk.Label(main_frame, text="💻 FILE ORGANIZER PRO v2.0", font=("Consolas", 18, "bold"),
+        header = tk.Label(main_frame, text="💻 FILE ORGANIZER  v0.0.1", font=("Consolas", 18, "bold"),
                           fg=COLORS["dark"]["accent_primary"], bg=COLORS["dark"]["bg_primary"])
         header.pack(pady=(0,10))
 
